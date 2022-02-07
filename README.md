@@ -7,4 +7,4 @@ Notas da atualização: Foi colocado semântica ao projeto (header, nav, main, a
 
 07/02/2022 - Atualização...
 Atualizado: Responsividade.
-Notas de atualização: Deixado o projeto responsivo utilizando Media query.
+Notas de atualização: Deixado o projeto responsivo utilizando Media queries.
